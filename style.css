@@ -1,0 +1,58 @@
+body{
+    color: green;
+    margin: 0;
+}
+
+.container{
+    padding: 0 5% 0 5%;
+    margin: 0;
+    background-attachment: fixed;
+    background-image: url("https://www.york.ac.uk/media/study/courses/undergraduate/electronics/Ee-comp-BEng.jpg");
+    background-size: cover;
+}
+
+.header{
+    background-color:#A3C9A8;
+    margin: 0;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.paragraph{
+    padding: 5%;
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+    height: 500px;
+    background-color: rgba(255, 253, 254, 0.8);
+    font-size: 29px;
+    font-style: bold;
+    
+}
+.main-title{
+    text-align: center;
+    font-size: 20px;
+    position: relative;
+    margin:40px 0 20px 0;
+    color: black    
+}
+
+p{
+    font-size:20px;
+    color:#50808E;
+}   
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.header {
+  text-align: center;
+}
+
+footer{
+  padding: 10px;
+  text-align: center;
+  background: pink;
+}
